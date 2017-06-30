@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+By using Playtube app, you agree to be bound by the YouTube Terms of Service https://www.youtube.com/t/terms
 
-You can use the [editor on GitHub](https://github.com/ccxccxccx/musicplayer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+"We", at GoldenWill Labs LLC. respect your privacy. We may collect, use, store and disclose the personal identifying data and information that you may provide as a "User" of GoldenWill Labs LLC.' apps ("App").
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+YouTube API Services
 
-### Markdown
+Playtube app uses the YouTube API Services and does not access, collect , store or share with third parties any Api Data relating to users.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Authorized data is used only to import playlists from Youtube. The autorization process is handled by the system and Playtube does not store any user data. The user will always be asked to grant authorization every time when the import process is initiated. Users can revoke Playtube's access to their data via the Google security settings page at https://security.google.com/settings/security/permissions
 
-```markdown
-Syntax highlighted code block
+Should you have any questions or complaints about the Playtube's privacy practices please contact us.
 
-# Header 1
-## Header 2
-### Header 3
+You can find more about the Google Privacy Policy at http://www.google.com/policies/privacy
 
-- Bulleted
-- List
+Advertisements
 
-1. Numbered
-2. List
+Playtube app may display advertisements on the application. It does not display any ad when the Youtube player is shown on the screen. In-video ads are managed by Youtube and Playtube does not block or access any ad managed by Youtube.
 
-**Bold** and _Italic_ and `Code` text
+What data is collected
 
-[Link](url) and ![Image](src)
-```
+We only collect personal information that User share voluntarily with us, User is still able to use the App anonymously. We may also collect some Non-personal identification information for technical purposes.
+The used and collected data include:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Your IP address
+* Data about your operating system and browser
+How we use User's information
 
-### Jekyll Themes
+We use the Non-personal identification information for technical and analytics purpose. And we use the personal identification information only to enhance the User experience of the App.
+Security and data share
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ccxccxccx/musicplayer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We are committed to protect your information and we undertake to take all reasonable steps in order to protect the security of your information. We do not sell, trade, or rent User's personal identification information to others. We do not share your personal information except as approved by you.
+Changes to this privacy policy
 
-### Support or Contact
+The privacy policy and this page content may change over time. We will revise the updated date at the bottom of this page each time we perform an update.
+Contacting us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Should you have any question about this Policy please contact us.
+This document was last updated on May 24, 2017
