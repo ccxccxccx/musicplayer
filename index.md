@@ -2,7 +2,7 @@
                                  
   By using Playtube app, you agree to be bound by the YouTube Terms of Service https://www.youtube.com/t/terms
 
-"We", at GoldenWill Labs LLC. respect your privacy. We may collect, use, store and disclose the personal identifying data and information that you may provide as a "User" of GoldenWill Labs LLC.' apps ("App").
+We respect your privacy.
 
 YouTube API Services
 
