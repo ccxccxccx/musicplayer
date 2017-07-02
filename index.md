@@ -1,12 +1,12 @@
-                            Free Music Player
+                            Free Music™
                                  
-  By using Playtube app, you agree to be bound by the YouTube Terms of Service https://www.youtube.com/t/terms
+  By using Free Music™ app, you agree to be bound by the YouTube Terms of Service https://www.youtube.com/t/terms
 
 We respect your privacy.
 
 YouTube API Services
 
-Playtube app uses the YouTube API Services and does not access, collect , store or share with third parties any Api Data relating to users.
+Free Music™ uses the YouTube API Services and does not access, collect , store or share with third parties any Api Data relating to users.
 
 Authorized data is used only to import playlists from Youtube. The autorization process is handled by the system and Playtube does not store any user data. The user will always be asked to grant authorization every time when the import process is initiated. Users can revoke Playtube's access to their data via the Google security settings page at https://security.google.com/settings/security/permissions
 
